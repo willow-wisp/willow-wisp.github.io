@@ -18,3 +18,6 @@ github_username:  willow-wisp
 
 # Build settings
 markdown: kramdown
+
+disqus:
+  shortname: willow-wisp.github.io
