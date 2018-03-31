@@ -3,7 +3,7 @@ layout: post
 title: "An Essay On LGBT+ Rights"
 date: 2018-03-31 00:00:00 -0600
 categories: [LGBT+, essay]
-tags: [LGBT+, lesbians, transgender]
+tags: LGBT+ lesbians transgender
 ---
 
 **Trigger Warning: Discussions of suicide, self harm, murder, assault, and rape**
