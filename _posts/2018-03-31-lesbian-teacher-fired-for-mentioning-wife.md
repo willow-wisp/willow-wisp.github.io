@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teacher Fired For Mentioning Her wife"
+title: "Teacher Fired For Mentioning Her Wife"
 date: 2018-03-31 12:00:00 -0600
 categories: [LGBT+, news]
 tags: [LGBT+, lesbians, marriage, texas]
