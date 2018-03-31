@@ -5,7 +5,6 @@ date: 2018-03-31 12:00:00 -0600
 categories: [LGBT+, news]
 tags: LGBT+ lesbians marriage
 ---
-
 Texas is at it again. A teacher was placed on leave in September because
 one parent claimed that she had "discussed her sexuality with children."
 
