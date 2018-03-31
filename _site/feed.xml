@@ -2,13 +2,211 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wisps In The Willow Trees</title>
-    <description>A young transgirl writes about LGBT rights, politics, and religion.
+    <description>A young trans girl writes about LGBT rights, politics, and religion.
 </description>
-    <link>http://willow-wisp.github.io/</link>
-    <atom:link href="http://willow-wisp.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Mar 2018 22:19:14 -0500</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 22:19:14 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 31 Mar 2018 13:21:39 -0500</pubDate>
+    <lastBuildDate>Sat, 31 Mar 2018 13:21:39 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Mar 2018 13:13:44 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2018/03/31/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2018/03/31/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Teacher Fired For Mentioning Her Wife</title>
+        <description>&lt;p&gt;Texas is at it again. A teacher was placed on leave in September because
+one parent claimed that she had “discussed her sexuality with children.”&lt;/p&gt;
+
+&lt;p&gt;What does that mean, you ask? It means she mentioned her wife whenever talking
+about her family. It’s pretty blatantly homophobic. It’s obvious a straight
+woman wouldn’t get suspended from her job and “treated like a criminal” by the
+school for talking about her husband.&lt;/p&gt;
+
+&lt;p&gt;The teacher’s name is Stacy Bailey. She was an art teacher and one of the most
+loved teachers at the school by the students. Yet, because someone complained
+that she was gay, she was suspended.&lt;/p&gt;
+
+&lt;p&gt;Bailey and her supporters are lobbying for greater protection for LGBT+ teachers.
+There’s a &lt;a href=&quot;https://www.ipetitions.com/petition/lgbt-protection-for-misd-employees-and-students&quot;&gt;petition&lt;/a&gt;, which I recommend any sympathetic readers sign.&lt;/p&gt;
+
+&lt;p&gt;It’s honestly horrifying how they are treating LGBT+ people. Texas is one of the
+biggest offenders, as the Religious Right has a stranglehold on the state.
+Please, support Bailey and others like her and sign the &lt;a href=&quot;https://www.ipetitions.com/petition/lgbt-protection-for-misd-employees-and-students&quot;&gt;petition&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Mar 2018 13:00:00 -0500</pubDate>
+        <link>http://localhost:4000/lgbt+/news/2018/03/31/lesbian-teacher-fired-for-mentioning-wife.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lgbt+/news/2018/03/31/lesbian-teacher-fired-for-mentioning-wife.html</guid>
+        
+        <category>LGBT+</category>
+        
+        <category>lesbians</category>
+        
+        <category>marriage</category>
+        
+        
+        <category>LGBT+</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>An Essay On LGBT+ Rights</title>
+        <description>&lt;p&gt;&lt;strong&gt;Trigger Warning: Discussions of suicide, self harm, murder, assault, and rape&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to Wisps in the Willow Trees.
+Today’s topic is LGBT+ rights. It’s a near and dear topic, especially on today,
+Transgender Visibility Day.&lt;/p&gt;
+
+&lt;p&gt;LGBT+ rights started as a movement, as far as I can identify, in the nineties.
+While we still hadn’t solved the problems of sexism and racism, feminism and the
+other parts of the civil rights movement had made strides (though we’re not done
+yet, obviously.)&lt;/p&gt;
+
+&lt;p&gt;Humanity, as always, sucks at giving out rights. The religious oppression of
+LGBT+ people has a long history, but fairly recently we won a major victory with
+gay marriage being allowed. Despite this, several states are still trying to
+invalidate this, such as with the South Carolina bill declaring gay marriages
+“parody marriages”.&lt;/p&gt;
+
+&lt;p&gt;However, today I want to address three primary topics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fetishization of LGBT+ individuals&lt;/li&gt;
+  &lt;li&gt;Suicide and self-harm among LGBT+ youths&lt;/li&gt;
+  &lt;li&gt;Assault (Sexual, physical, and emotional) of LGBT+ people, especially
+transgender men and women.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;fetishization&quot;&gt;Fetishization&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;So, first off, an apology to bisexual people. You are all fetishized less
+than the rest of them as far as I can see, and subject to erasure. For that,
+I’d like to apologize on Humanity’s behalf.&lt;/p&gt;
+
+&lt;p&gt;First off, and with a fairly well known effect, is the Fetishization of
+lesbians. For some reason, straight males (and it’s usually straight males)
+have a tendency to enjoy the idea of lesbians. Interestingly, even homophobes
+have been known to enjoy it from a purely &lt;em&gt;ahem&lt;/em&gt; physical standpoint.&lt;/p&gt;
+
+&lt;p&gt;Gay men’s &lt;em&gt;physical activities&lt;/em&gt; are often enjoyed by, as I understand,
+straight women. I am less familiar with the topic, being uninterested in men
+myself.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, and with few people being aware of it, people also fetishize
+(pre-SRS) trans people, especially trans women. We are viewed as sexual objects,
+the mere act of having the opposite sex’s genitalia becoming something to be
+desired.&lt;/p&gt;
+
+&lt;p&gt;Ironically, all of the people so fetishized are socially entrapped by the same
+thing that makes them fetishizable. Lesbians and gay men by their mere
+orientation, trans men and women by their genitalia alone (see: Bathrooms).&lt;/p&gt;
+
+&lt;h1 id=&quot;suicide-and-self-harm&quot;&gt;Suicide and Self-Harm&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;Bullying. Excused by the system, lauded by some as a “trainer” of youths,
+And a horrifying practice, leading to damaged psyches. LGBT+ youths especially
+are subject to it, because of the views of others.&lt;/p&gt;
+
+&lt;p&gt;The treament of LGBT+ people wears on the psyche. Eventually, some of us break.
+We try and kill ourselves. I’ve tried more then once.&lt;/p&gt;
+
+&lt;p&gt;And it’s not always other students. Sometimes, like in the case of Leelah Alcorn,
+it’s the parents, the people we’re supposed to trust. In these cases, we’ll hurt
+ourselves or kill ourselves because we have no one else to turn to.&lt;/p&gt;
+
+&lt;p&gt;I’m going to keep this section short. I might expand on this in another post,
+but talking about this dredges up painful memories.&lt;/p&gt;
+
+&lt;h1 id=&quot;assault&quot;&gt;Assault&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;Assault is a heavy topic. It damages the psyche and the body.
+Today is the day I come out publically, but that does not mean that I have never
+been bullied for being trans.&lt;/p&gt;
+
+&lt;p&gt;I have been attacked, physically and emotionally, for the crimes of having long
+hair and not enjoying PE.&lt;/p&gt;
+
+&lt;p&gt;In my classes, without even a word to stop it, a child threatened to “Punch any
+transgender kid [he meets] in the face.” At the time, I did not realize I was
+trans, but even then it cut because I knew that they were people too. Now, I am
+scared for my self because children like him exist.&lt;/p&gt;
+
+&lt;p&gt;Slightly over one in four trans people will have violence commited against them.
+Murder of transgender people is on the rise, with an all time high in 2017.&lt;/p&gt;
+
+&lt;p&gt;That’s not to imply that the assault is limited to transgender people of course.&lt;/p&gt;
+
+&lt;p&gt;Rape of lesbians is common, with some of them raped because they won’t give men
+what they want. In several countries, so-called “corrective rape” occurs in
+order to turn lesbians straight.&lt;/p&gt;
+
+&lt;p&gt;All LGBT+ are attacked emotionally with damaging comments. Words like “faggot”
+or “dyke”. Misgendering or deadnaming effect trans people.&lt;/p&gt;
+
+&lt;p&gt;Even in the feminist community, TERFs attack trans people, especially women,
+insulting trans girls by claiming they are appropriating women’s spaces.&lt;/p&gt;
+
+&lt;p&gt;Nowhere is safe. I hope that someday the world will be a happy place, but with
+the way things are now, that is not achievable.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-you-can-do-about-it&quot;&gt;What You Can Do About It&lt;/h1&gt;
+&lt;p&gt;Donate to LGBT+ charities.
+Participate in pride parades.
+Intervene in bullying.
+Show your support for the culture.
+Do whatever you can, but as always, the rule is simple:
+Don’t be a bigot.&lt;/p&gt;
+
+&lt;h1 id=&quot;sources&quot;&gt;Sources&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Suicide_among_LGBT+_youth&quot;&gt;Wikipedia - Suicide among LGBT+ Youths&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Gay_bashing&quot;&gt;Wikipedia - Gay Bashing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hrc.org/resources/violence-against-the-transgender-community-in-2018&quot;&gt;HRC - Violence against the transgender community&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 31 Mar 2018 01:00:00 -0500</pubDate>
+        <link>http://localhost:4000/lgbt+/essay/2018/03/31/an-essay-on-lgbt-rights.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lgbt+/essay/2018/03/31/an-essay-on-lgbt-rights.html</guid>
+        
+        <category>LGBT+</category>
+        
+        <category>lesbians</category>
+        
+        <category>transgender</category>
+        
+        
+        <category>LGBT+</category>
+        
+        <category>essay</category>
+        
+      </item>
     
   </channel>
 </rss>
