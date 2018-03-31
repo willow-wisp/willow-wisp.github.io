@@ -9,7 +9,7 @@
 title: Wisps In The Willow Trees
 email: wispywillow0@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A young transgirl writes about LGBT rights, politics, and religion.
+  A young trans girl writes about LGBT rights, politics, and religion.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://willow-wisp.github.io" # the base hostname & protocol for your site
@@ -18,6 +18,9 @@ github_username:  willow-wisp
 
 # Build settings
 markdown: kramdown
+
+comments:
+ provider: disqus
 
 disqus:
   shortname: willow-wisp.github.io
