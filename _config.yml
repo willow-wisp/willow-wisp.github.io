@@ -24,3 +24,5 @@ comments:
 
 disqus:
   shortname: willow-wisp-github-io
+
+theme: jekyll-theme-slate
