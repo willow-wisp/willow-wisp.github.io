@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Essay on LGBT+ Rights"
-date: 2018-03-13 12:00:00 -0600
+date: 2018-03-31 12:00:00 -0600
 categories: [LGBT+, essay]
 tags: [LGBT+, lesbians, transgender]
 ---
