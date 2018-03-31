@@ -30,6 +30,7 @@ However, today I want to address three primary topics:
 3. Assault (Sexual, physical, and emotional) of LGBT+ people, especially
 transgender men and women.
 
+
 # Fetishization
 ---
 So, first off, an apology to bisexual people. You are all fetishized less
@@ -111,6 +112,6 @@ Do whatever you can, but as always, the rule is simple:
 Don't be a bigot.
 
 # Sources
-[Wikipedia - Suicide among LGBT+ Youths](https://en.wikipedia.org/wiki/Suicide_among_LGBT+_youth)
-[Wikipedia - Gay Bashing](https://en.wikipedia.org/wiki/Gay_bashing)
-[HRC - Violence against the transgender community](https://www.hrc.org/resources/violence-against-the-transgender-community-in-2018)
+1. [Wikipedia - Suicide among LGBT+ Youths](https://en.wikipedia.org/wiki/Suicide_among_LGBT+_youth)
+2. [Wikipedia - Gay Bashing](https://en.wikipedia.org/wiki/Gay_bashing)
+3. [HRC - Violence against the transgender community](https://www.hrc.org/resources/violence-against-the-transgender-community-in-2018)
